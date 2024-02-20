@@ -1,0 +1,13 @@
+E:\Personal\Learning\SimpleTCPIP\TCPIPClient\bin\Debug\TCPIPClient.exe.config
+E:\Personal\Learning\SimpleTCPIP\TCPIPClient\bin\Debug\TCPIPClient.exe
+E:\Personal\Learning\SimpleTCPIP\TCPIPClient\bin\Debug\TCPIPClient.pdb
+E:\Personal\Learning\SimpleTCPIP\TCPIPClient\bin\Debug\SimpleTCP.dll
+E:\Personal\Learning\SimpleTCPIP\TCPIPClient\obj\Debug\TCPIPClient.csproj.AssemblyReference.cache
+E:\Personal\Learning\SimpleTCPIP\TCPIPClient\obj\Debug\TCPIPClient.csproj.SuggestedBindingRedirects.cache
+E:\Personal\Learning\SimpleTCPIP\TCPIPClient\obj\Debug\TCPIPClient.Client.resources
+E:\Personal\Learning\SimpleTCPIP\TCPIPClient\obj\Debug\TCPIPClient.Properties.Resources.resources
+E:\Personal\Learning\SimpleTCPIP\TCPIPClient\obj\Debug\TCPIPClient.csproj.GenerateResource.cache
+E:\Personal\Learning\SimpleTCPIP\TCPIPClient\obj\Debug\TCPIPClient.csproj.CoreCompileInputs.cache
+E:\Personal\Learning\SimpleTCPIP\TCPIPClient\obj\Debug\TCPIPClient.csproj.CopyComplete
+E:\Personal\Learning\SimpleTCPIP\TCPIPClient\obj\Debug\TCPIPClient.exe
+E:\Personal\Learning\SimpleTCPIP\TCPIPClient\obj\Debug\TCPIPClient.pdb

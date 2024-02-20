@@ -1,0 +1,13 @@
+E:\Personal\Learning\SimpleTCPIP\SimpleTCPIP\bin\Debug\SimpleTCPIP.exe.config
+E:\Personal\Learning\SimpleTCPIP\SimpleTCPIP\bin\Debug\SimpleTCPIP.exe
+E:\Personal\Learning\SimpleTCPIP\SimpleTCPIP\bin\Debug\SimpleTCPIP.pdb
+E:\Personal\Learning\SimpleTCPIP\SimpleTCPIP\obj\Debug\TCPIPServer.csproj.AssemblyReference.cache
+E:\Personal\Learning\SimpleTCPIP\SimpleTCPIP\obj\Debug\TCPIPServer.csproj.SuggestedBindingRedirects.cache
+E:\Personal\Learning\SimpleTCPIP\SimpleTCPIP\obj\Debug\SimpleTCPIP.Server.resources
+E:\Personal\Learning\SimpleTCPIP\SimpleTCPIP\obj\Debug\SimpleTCPIP.Properties.Resources.resources
+E:\Personal\Learning\SimpleTCPIP\SimpleTCPIP\obj\Debug\TCPIPServer.csproj.GenerateResource.cache
+E:\Personal\Learning\SimpleTCPIP\SimpleTCPIP\obj\Debug\TCPIPServer.csproj.CoreCompileInputs.cache
+E:\Personal\Learning\SimpleTCPIP\SimpleTCPIP\obj\Debug\SimpleTCPIP.exe
+E:\Personal\Learning\SimpleTCPIP\SimpleTCPIP\obj\Debug\SimpleTCPIP.pdb
+E:\Personal\Learning\SimpleTCPIP\SimpleTCPIP\bin\Debug\SimpleTCP.dll
+E:\Personal\Learning\SimpleTCPIP\SimpleTCPIP\obj\Debug\TCPIPServer.csproj.CopyComplete
